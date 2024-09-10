@@ -1,0 +1,12 @@
+C:\TestUnit\VaxiDrez\LibreriaVaxi\bin\Debug\net8.0\LibreriaVaxi.deps.json
+C:\TestUnit\VaxiDrez\LibreriaVaxi\bin\Debug\net8.0\LibreriaVaxi.dll
+C:\TestUnit\VaxiDrez\LibreriaVaxi\bin\Debug\net8.0\LibreriaVaxi.pdb
+C:\TestUnit\VaxiDrez\LibreriaVaxi\obj\Debug\net8.0\LibreriaVaxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestUnit\VaxiDrez\LibreriaVaxi\obj\Debug\net8.0\LibreriaVaxi.AssemblyInfoInputs.cache
+C:\TestUnit\VaxiDrez\LibreriaVaxi\obj\Debug\net8.0\LibreriaVaxi.AssemblyInfo.cs
+C:\TestUnit\VaxiDrez\LibreriaVaxi\obj\Debug\net8.0\LibreriaVaxi.csproj.CoreCompileInputs.cache
+C:\TestUnit\VaxiDrez\LibreriaVaxi\obj\Debug\net8.0\LibreriaVaxi.dll
+C:\TestUnit\VaxiDrez\LibreriaVaxi\obj\Debug\net8.0\refint\LibreriaVaxi.dll
+C:\TestUnit\VaxiDrez\LibreriaVaxi\obj\Debug\net8.0\LibreriaVaxi.pdb
+C:\TestUnit\VaxiDrez\LibreriaVaxi\obj\Debug\net8.0\ref\LibreriaVaxi.dll
+C:\TestUnit\VaxiDrez\LibreriaVaxi\obj\Debug\net8.0\LibreriaVaxi.sourcelink.json
